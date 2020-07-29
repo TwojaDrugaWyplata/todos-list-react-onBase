@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TwojaDrugaWyplata/todos-list-react-onBase/static/css/main.80e09558.chunk.css",
+    "main.js": "/TwojaDrugaWyplata/todos-list-react-onBase/static/js/main.ec52e20d.chunk.js",
+    "main.js.map": "/TwojaDrugaWyplata/todos-list-react-onBase/static/js/main.ec52e20d.chunk.js.map",
+    "runtime-main.js": "/TwojaDrugaWyplata/todos-list-react-onBase/static/js/runtime-main.d3fea9ec.js",
+    "runtime-main.js.map": "/TwojaDrugaWyplata/todos-list-react-onBase/static/js/runtime-main.d3fea9ec.js.map",
+    "static/js/2.3bed7c4d.chunk.js": "/TwojaDrugaWyplata/todos-list-react-onBase/static/js/2.3bed7c4d.chunk.js",
+    "static/js/2.3bed7c4d.chunk.js.map": "/TwojaDrugaWyplata/todos-list-react-onBase/static/js/2.3bed7c4d.chunk.js.map",
+    "index.html": "/TwojaDrugaWyplata/todos-list-react-onBase/index.html",
+    "precache-manifest.247908b69ecc0f48e88943588819350c.js": "/TwojaDrugaWyplata/todos-list-react-onBase/precache-manifest.247908b69ecc0f48e88943588819350c.js",
+    "service-worker.js": "/TwojaDrugaWyplata/todos-list-react-onBase/service-worker.js",
+    "static/css/main.80e09558.chunk.css.map": "/TwojaDrugaWyplata/todos-list-react-onBase/static/css/main.80e09558.chunk.css.map",
+    "static/js/2.3bed7c4d.chunk.js.LICENSE.txt": "/TwojaDrugaWyplata/todos-list-react-onBase/static/js/2.3bed7c4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3fea9ec.js",
+    "static/js/2.3bed7c4d.chunk.js",
+    "static/css/main.80e09558.chunk.css",
+    "static/js/main.ec52e20d.chunk.js"
+  ]
+}
