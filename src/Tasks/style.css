@@ -1,0 +1,52 @@
+.tasksList {
+    margin: 20px;
+    padding: 0 0 20px;
+}
+
+.tasksList__item {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    border-bottom: 2px solid #eee;
+    margin: 0 auto;
+}
+
+.tasksList__item--hidden {
+    display: none;
+}
+
+.tasksList__task {
+    margin: auto 0;
+    text-decoration: line-through;
+}
+
+.tasksList__task--taskNotDone {
+    text-decoration: none;
+}
+
+.tasksList__button {
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-image: url("../Tasks/done.png");
+    background-size: cover;
+    border: none;
+}
+
+.tasksList__button:hover {
+    background-color: hsl(120, 100%, 35%);
+}
+
+.tasksList__button--taskNotDone {
+    background-image: none;
+}
+
+.tasksList__button--deleteButton {
+    background-color: red;
+    background-image: url("../Tasks/delete.png");
+    background-size: cover;
+}
+
+.tasksList__button--deleteButton:hover {
+    background-color: hsl(0, 100%, 60%);
+}
